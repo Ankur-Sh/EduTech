@@ -36,7 +36,7 @@
     "repository": {
         "type": "git"
     },
-    "author": "Vivek Panchal",
+    "author": "Ankur Sharma",
     "scripts": {
         "start": "react-scripts start",
         "build": "react-scripts build",

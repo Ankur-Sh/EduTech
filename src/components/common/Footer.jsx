@@ -31,7 +31,7 @@ const Footer = () => {
                         <div className="w-[30%] flex flex-col gap-3 lg:w-[30%] mb-7 lg:pl-0">
                             <img
                                 src={StudyNotionLogo}
-                                alt=""
+                                alt="logo"
                                 className="object-contain"
                             />
                             <h1 className="text-richblack-50 font-semibold text-[16px]">
